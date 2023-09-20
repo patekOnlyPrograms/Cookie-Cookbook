@@ -1,0 +1,15 @@
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/CookieCookbook
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/CookieCookbook.deps.json
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/CookieCookbook.runtimeconfig.json
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/CookieCookbook.dll
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/ref/CookieCookbook.dll
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/bin/Debug/net6.0/CookieCookbook.pdb
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.csproj.AssemblyReference.cache
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.AssemblyInfoInputs.cache
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.AssemblyInfo.cs
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.csproj.CoreCompileInputs.cache
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.dll
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/ref/CookieCookbook.dll
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.pdb
+/home/susruth/Documents/Programming/C#/CookieCookbook/CookieCookbook/obj/Debug/net6.0/CookieCookbook.genruntimeconfig.cache
